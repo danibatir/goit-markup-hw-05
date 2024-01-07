@@ -432,12 +432,12 @@ padding: 188px 0;
   border-radius: 4px;
   border: 1px solid #e7e9fc;
 }
-.portfolio-image{
+.portfolio-image {
   display: block;
-  width: calc((100%-48px)/ 3);
-  width:100%;
-  min-width:264;
-  transition: box-shadow 250ms cubic-bezier(0.4, 0, 0, 0.2, 1);
+  width: calc((100% - 48px) / 3);
+  width: 100%;
+  min-width: 264px;
+  transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .link.portfolio-image:focus .blue-text,
 .link.portfolio-image:hover .blue-text {
